@@ -1,0 +1,9 @@
+{
+  "name": "agent-skills",
+  "description": "Skills for software engineering.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Emil Sit"
+  },
+  "license": "MIT"
+}
